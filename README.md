@@ -14,6 +14,8 @@ Added a new branch Dev
 Added ssh key to github repo
 See the difference bet HTTPS and SSH
 
+Why we commit before push
+
 remove CEO number from the user facing interface
 
 Intro to git hooks
